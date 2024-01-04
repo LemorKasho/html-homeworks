@@ -1,22 +1,3 @@
-.zero {
-    background-image: url("../inside/css-assignment-5-8.png");
+div {
 
-    background-color: blue;
-    padding: 20px;
-    width: 500px;
-    margin: 40px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.one {
-    background-color: red;
-    padding: 20px;
-    width: 500px;
-    margin: 22px auto;
-
-}
-
-.hh {
-    background-color: aqua;
 }
